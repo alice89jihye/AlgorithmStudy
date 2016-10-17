@@ -1,0 +1,5 @@
+D:\Book_Doc\algorithmic_problem_solving_strategies\6_8_clocksync\clocksync_6_8\clocksync_6_8\obj\Debug\clocksync_6_8.csprojResolveAssemblyReference.cache
+D:\Book_Doc\algorithmic_problem_solving_strategies\6_8_clocksync\clocksync_6_8\clocksync_6_8\bin\Debug\clocksync_6_8.exe
+D:\Book_Doc\algorithmic_problem_solving_strategies\6_8_clocksync\clocksync_6_8\clocksync_6_8\bin\Debug\clocksync_6_8.pdb
+D:\Book_Doc\algorithmic_problem_solving_strategies\6_8_clocksync\clocksync_6_8\clocksync_6_8\obj\Debug\clocksync_6_8.exe
+D:\Book_Doc\algorithmic_problem_solving_strategies\6_8_clocksync\clocksync_6_8\clocksync_6_8\obj\Debug\clocksync_6_8.pdb
